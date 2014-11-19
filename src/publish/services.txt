@@ -1,0 +1,8 @@
+SD=C:\data\map_bv.sd|folderName=ucdemos|serviceName=Map_bv|clusterName=default
+SD=C:\data\map_br.sd|folderName=ucdemos|serviceName=Map_br|clusterName=default
+SD=C:\data\mobile_br.sd|folderName=ucdemos|serviceName=mobile_br|clusterName=default
+SD=C:\data\mobile_bv.sd|folderName=ucdemos|serviceName=mobile_bv|clusterName=default
+SD=C:\data\networkanalyst_br.sd|folderName=ucdemos|serviceName=networkanalyst_br|clusterName=default
+SD=C:\data\networkanalyst_bv.sd|folderName=ucdemos|serviceName=networkanalyst_bv|clusterName=default
+SD=C:\data\geocode_bv.sd|folderName=ucdemos|serviceName=geocode_bv|clusterName=default
+SD=C:\data\GPAsync_br.sd|folderName=ucdemos|serviceName=GPAsync_br|clusterName=default
