@@ -42,6 +42,4 @@ def list_operations:
 
 def map_operations:
 
-
-
-
+def def_class:
